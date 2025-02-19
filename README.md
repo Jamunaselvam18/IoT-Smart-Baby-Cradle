@@ -1,5 +1,3 @@
-
-```markdown
 # IoT-Based Smart Baby Cradle
 
 ## Overview
@@ -53,15 +51,6 @@ This project is an IoT-based solution designed for remote infant monitoring. It 
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
----
 
-## Contact
-For any inquiries or contributions, please contact:  
-**[Your Name]**  
-**Email:** [Your Email]
-```
 
-Let me know if you need further modifications!
