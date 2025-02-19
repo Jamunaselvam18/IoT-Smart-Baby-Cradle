@@ -21,7 +21,7 @@ This project is an IoT-based solution designed for remote infant monitoring. It 
 ## Technologies Used
 - **Arduino IDE**: For writing and uploading code to the Arduino microcontroller.
 - **Python**: For training a machine learning model to analyze infant sounds.
-- **Sensors**: Includes sound, temperature, and pulse rate sensors.
+- **Sensors**: Includes sound, temperature, moisture sensor and pulse rate sensors.
 
 ---
 
